@@ -248,9 +248,6 @@ This repository specifically helps with frequently asked interview topics such a
 - Asynchronous JavaScript
 - `null` vs `undefined`
 
-These concepts are commonly discussed in JavaScript interview preparation resources and developer communities. ([reddit.com](https://www.reddit.com/r/learnjavascript/comments/ch2t3b?utm_source=chatgpt.com))
-
----
 
 # 🚀 Future Improvements
 
